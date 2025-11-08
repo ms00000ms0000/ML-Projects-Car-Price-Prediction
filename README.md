@@ -87,13 +87,12 @@ The trained **Lasso Regression (Linear Regression)** model achieved an **R² sco
    cd ML-Projects-Car-Price-Prediction
    ```
 
-2.**Install dependencies:**
+2. **Install dependencies:**
 
 ```bash
 pip install -r requirements.txt
 ```
-
-3.**Run the notebook:**
+3. **Run the notebook:**
 
 ```bash
 jupyter notebook car_price_prediction.ipynb
