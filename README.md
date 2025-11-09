@@ -72,8 +72,8 @@ The trained **Lasso Regression (Linear Regression)** model achieved an **R² sco
 ```
 📦 ML_Project_Car_Price_Prediction
 │
-├── car_price_prediction.ipynb # Jupyter Notebook with full implementation
-├── car_data.csv # Dataset used for model training and testing
+├── Car_Price_Prediction.ipynb # Jupyter Notebook with full implementation
+├── car details_1.csv # Dataset used for model training and testing
 └── README.md # Project documentation
 
 ```
